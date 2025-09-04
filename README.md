@@ -1,4 +1,6 @@
+<a href="https://github.com/VoltAgent/voltagent">
 <img width="1500" height="500" alt="Group 32" src="https://github.com/user-attachments/assets/286b21c6-7dd5-453a-9360-677151939f4a" />
+</a>
 
 <br />
 <br/>
@@ -51,15 +53,17 @@ This repository serves as the definitive collection of Claude Code subagents - s
 ### [01. Core Development](categories/01-core-development/)
 Essential development subagents for everyday coding tasks.
 
-- [**frontend-developer**](categories/01-core-development/frontend-developer.md) - UI/UX specialist for React, Vue, and Angular
-- [**backend-developer**](categories/01-core-development/backend-developer.md) - Server-side expert for scalable APIs
-- [**fullstack-developer**](categories/01-core-development/fullstack-developer.md) - End-to-end feature development
-- [**mobile-developer**](categories/01-core-development/mobile-developer.md) - Cross-platform mobile specialist
-- [**electron-pro**](categories/01-core-development/electron-pro.md) - Desktop application expert
 - [**api-designer**](categories/01-core-development/api-designer.md) - REST and GraphQL API architect
+- [**backend-developer**](categories/01-core-development/backend-developer.md) - Server-side expert for scalable APIs
+- [**electron-pro**](categories/01-core-development/electron-pro.md) - Desktop application expert
+- [**frontend-developer**](categories/01-core-development/frontend-developer.md) - UI/UX specialist for React, Vue, and Angular
+- [**fullstack-developer**](categories/01-core-development/fullstack-developer.md) - End-to-end feature development
 - [**graphql-architect**](categories/01-core-development/graphql-architect.md) - GraphQL schema and federation expert
 - [**microservices-architect**](categories/01-core-development/microservices-architect.md) - Distributed systems designer
+- [**mobile-developer**](categories/01-core-development/mobile-developer.md) - Cross-platform mobile specialist
+- [**ui-designer**](categories/01-core-development/ui-designer.md) - Visual design and interaction specialist
 - [**websocket-engineer**](categories/01-core-development/websocket-engineer.md) - Real-time communication specialist
+- [**wordpress-master**](categories/01-core-development/wordpress-master.md) - WordPress development and optimization expert
 
 ### [02. Language Specialists](categories/02-language-specialists/)
 Language-specific experts with deep framework knowledge.
@@ -72,6 +76,7 @@ Language-specific experts with deep framework knowledge.
 - [**csharp-developer**](categories/02-language-specialists/csharp-developer.md) - .NET ecosystem specialist
 - [**django-developer**](categories/02-language-specialists/django-developer.md) - Django 4+ web development expert
 - [**dotnet-core-expert**](categories/02-language-specialists/dotnet-core-expert.md) - .NET 8 cross-platform specialist
+- [**dotnet-framework-4.8-expert**](categories/02-language-specialists/dotnet-framework-4.8-expert.md) - .NET Framework legacy enterprise specialist
 - [**flutter-expert**](categories/02-language-specialists/flutter-expert.md) - Flutter 3+ cross-platform mobile expert
 - [**golang-pro**](categories/02-language-specialists/golang-pro.md) - Go concurrency specialist
 - [**java-architect**](categories/02-language-specialists/java-architect.md) - Enterprise Java expert
@@ -145,6 +150,7 @@ Tooling and developer productivity experts.
 - [**dx-optimizer**](categories/06-developer-experience/dx-optimizer.md) - Developer experience optimization specialist
 - [**git-workflow-manager**](categories/06-developer-experience/git-workflow-manager.md) - Git workflow and branching expert
 - [**legacy-modernizer**](categories/06-developer-experience/legacy-modernizer.md) - Legacy code modernization specialist
+- [**mcp-developer**](categories/06-developer-experience/mcp-developer.md) - Model Context Protocol specialist
 - [**refactoring-specialist**](categories/06-developer-experience/refactoring-specialist.md) - Code refactoring expert
 - [**tooling-engineer**](categories/06-developer-experience/tooling-engineer.md) - Developer tooling specialist
 
@@ -161,6 +167,7 @@ Domain-specific technology experts.
 - [**payment-integration**](categories/07-specialized-domains/payment-integration.md) - Payment systems expert
 - [**quant-analyst**](categories/07-specialized-domains/quant-analyst.md) - Quantitative analysis specialist
 - [**risk-manager**](categories/07-specialized-domains/risk-manager.md) - Risk assessment and management expert
+- [**seo-specialist**](categories/07-specialized-domains/seo-specialist.md) - Search engine optimization expert
 
 ### [08. Business & Product](categories/08-business-product/)
 Product management and business analysis.
